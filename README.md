@@ -3,7 +3,7 @@
 rm -rf AMO
 git clone https://github.com/SKBER-CYBER/AMO
 cd AMO
-python OGGY.py
+python AMO.py
 ```
 • THIS PAID TOOL •
 
